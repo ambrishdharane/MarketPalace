@@ -1,0 +1,19 @@
+package com.app.marketstarterDemo.MarketStarterDemo;
+
+
+@SpringBootApplication
+
+public class MarketStarterDemoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MarketStarterDemoApplication.class, args);
+	}
+
+	
+	
+	public String getRestoutput(String name) {
+		String message="My name is"+name;
+		System.out.println("Message="+message);
+		return message;
+	}
+}

@@ -1,0 +1,13 @@
+package com.app.marketstarterDemo.MarketStarterDemo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MarketStarterDemoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MarketStarterDemoApplication.class, args);
+	}
+
+}
