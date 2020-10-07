@@ -1,0 +1,15 @@
+127.0.0.1 - - [19/May/2020:15:22:07 +0530] "GET / HTTP/1.1" 404 1076
+0:0:0:0:0:0:0:1 - - [19/May/2020:15:22:15 +0530] "GET /BaratBazarApp/ HTTP/1.1" 200 3405
+0:0:0:0:0:0:0:1 - - [19/May/2020:15:22:16 +0530] "GET /BaratBazarApp/domesticProd.jpg HTTP/1.1" 200 60741
+0:0:0:0:0:0:0:1 - - [19/May/2020:15:22:16 +0530] "GET /BaratBazarApp/saricloths.jpg HTTP/1.1" 200 50372
+0:0:0:0:0:0:0:1 - - [19/May/2020:15:22:16 +0530] "GET /BaratBazarApp/furniturenew.jpg HTTP/1.1" 200 62278
+0:0:0:0:0:0:0:1 - - [19/May/2020:15:22:26 +0530] "GET /BaratBazarApp/product HTTP/1.1" 200 3402
+0:0:0:0:0:0:0:1 - - [19/May/2020:15:22:28 +0530] "GET /BaratBazarApp/aboutus HTTP/1.1" 200 3403
+0:0:0:0:0:0:0:1 - - [19/May/2020:15:22:30 +0530] "GET /BaratBazarApp/login HTTP/1.1" 200 3103
+0:0:0:0:0:0:0:1 - - [19/May/2020:15:22:34 +0530] "GET /BaratBazarApp/register HTTP/1.1" 200 3386
+0:0:0:0:0:0:0:1 - - [19/May/2020:15:24:27 +0530] "GET /BaratBazarApp/register HTTP/1.1" 200 3386
+0:0:0:0:0:0:0:1 - - [19/May/2020:15:24:36 +0530] "GET /favicon.ico HTTP/1.1" 404 1087
+0:0:0:0:0:0:0:1 - - [19/May/2020:15:25:59 +0530] "GET /BaratBazarApp/storereg?name=Ambrish+&email=ambrish.dharne%40gmail.com&mobileno=9063674281&address=Bhekrai+nagar&password=123123123&confirmpass=123123123&remember=on HTTP/1.1" 200 3405
+0:0:0:0:0:0:0:1 - - [19/May/2020:15:25:59 +0530] "GET /BaratBazarApp/saricloths.jpg HTTP/1.1" 200 50372
+0:0:0:0:0:0:0:1 - - [19/May/2020:15:25:59 +0530] "GET /BaratBazarApp/domesticProd.jpg HTTP/1.1" 200 60741
+0:0:0:0:0:0:0:1 - - [19/May/2020:15:25:59 +0530] "GET /BaratBazarApp/furniturenew.jpg HTTP/1.1" 200 62278

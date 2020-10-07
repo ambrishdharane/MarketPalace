@@ -1,0 +1,34 @@
+package com.app.bzr.registration;
+
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+@WebServlet("/register")
+public class DisplayRegisterSrv extends HttpServlet {
+
+	@Override
+	protected void service(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+	
+		String registerPage="/register/register.jsp";
+		 System.out.println("executing register srv");
+		
+
+		    String name=req.getParameter("Name");
+		    String email=req.getParameter("Email");
+		    String mobileno=req.getParameter("Mobileno");
+	        String address=req.getParameter("Address");
+	        String password=req.getParameter("Pssword");
+	        String confirmpass=req.getParameter("Confirmpass");
+	        String submit=req.getParameter("Submit");
+	        
+		 
+	        req.getRequestDispatcher(registerPage).forward(req, resp);
+			
+	}
+	
+}

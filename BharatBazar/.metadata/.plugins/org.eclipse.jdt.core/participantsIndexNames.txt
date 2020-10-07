@@ -1,0 +1,17 @@
+INDEX VERSION 1.131
+D:\BharatBazar\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1755639561.index
+\BaratBazarApp\src
+D:\BharatBazar\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3797659879.index
+\BaratBazarApp\src
+D:\BharatBazar\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\703446419.index
+\BaratBazarApp\src
+D:\BharatBazar\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2571621270.index
+\BaratBazarApp\src
+D:\BharatBazar\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1627403415.index
+\BaratBazarApp\src
+D:\BharatBazar\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4081921924.index
+\BaratBazarApp\src
+D:\BharatBazar\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3370441679.index
+\BaratBazarApp\src
+D:\BharatBazar\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\458667435.index
+\BaratBazarApp\src

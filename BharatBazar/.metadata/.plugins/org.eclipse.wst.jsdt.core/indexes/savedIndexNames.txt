@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\BharatBazar\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+8471780.index
+2541080135.index
+1428981867.index
+3216290478.index
+1174077199.index
+1888136138.index
