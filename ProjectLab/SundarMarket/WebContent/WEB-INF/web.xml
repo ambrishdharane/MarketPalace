@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+<servlet-name>supermarket</servlet-name>
+<servlet-class>com.app.sundar.MarketSrv</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>supermarket</servlet-name>
+<url-pattern>/market</url-pattern>
+</servlet-mapping>
+</web-app>
